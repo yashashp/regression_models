@@ -12,14 +12,8 @@ Description: The dataset contains the details of a employees experience in years
 
 ## 🧠 Model Used
 
-- Architecture: ANN with input layer → hidden layers → output layer (Sigmoid)
-- Activation Functions: ReLU, Sigmoid
-- Optimiser: Adam
-- Loss Function: Binary Crossentropy
+- Architecture: Matrix of features: 1 column. Target variable: 1
 
-## 📈 Performance
-
-- Accuracy: 86.8%
-- Confusion Matrix:
-- [[1530 65]
-[ 199 206]]
+Predicted value: 119905.85 for 10 years experience
+Coefficient: 9312.57512673
+Intercept: 26780.09915062818
