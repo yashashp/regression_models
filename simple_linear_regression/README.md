@@ -14,6 +14,6 @@ Description: The dataset contains the details of a employees experience in years
 
 - Architecture: Matrix of features: 1 column. Target variable: 1
 
-Predicted value: 119905.85 for 10 years experience
-Coefficient: 9312.57512673
-Intercept: 26780.09915062818
+- Predicted value: 119905.85 for 10 years experience
+- Coefficient: 9312.57512673
+- Intercept: 26780.09915062818
